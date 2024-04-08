@@ -1,0 +1,3 @@
+echo "source /opt/ros/humble/setup.basj" > /root/.bashrc
+
+
